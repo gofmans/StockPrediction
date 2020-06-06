@@ -1,5 +1,5 @@
 # StockPrediction
-Using HMM (Hidden Markov Models) to predict stocks and ETF values 
+Using HMM (Hidden Markov Models) to predict stocks and ETF prices 
 
 # Baseline functions #
 
